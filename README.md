@@ -1,1 +1,1 @@
-https://github.com/sofya-web/python/blob/main/project.ipynb
+https://sofya-web.github.io/python/blob/main/project.ipynb
